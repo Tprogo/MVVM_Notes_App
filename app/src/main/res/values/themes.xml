@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CompanionObjectNotesApp" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.CompanionObjectNotesApp" parent="Base.Theme.CompanionObjectNotesApp" />
+
+    <style name="search_icon">
+        <item name="icon">
+            @color/white
+        </item>
+    </style>
+</resources>
